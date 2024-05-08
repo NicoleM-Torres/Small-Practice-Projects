@@ -1,0 +1,4 @@
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Time Tracker2\obj\Debug\net8.0\Time Tracker2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Time Tracker2\obj\Debug\net8.0\Time Tracker2.AssemblyInfoInputs.cache
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Time Tracker2\obj\Debug\net8.0\Time Tracker2.AssemblyInfo.cs
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Time Tracker2\obj\Debug\net8.0\Time Tracker2.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Celcius to Farenheit\bin\Debug\net8.0\Celcius to Farenheit.exe
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Celcius to Farenheit\bin\Debug\net8.0\Celcius to Farenheit.deps.json
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Celcius to Farenheit\bin\Debug\net8.0\Celcius to Farenheit.runtimeconfig.json
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Celcius to Farenheit\bin\Debug\net8.0\Celcius to Farenheit.dll
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Celcius to Farenheit\bin\Debug\net8.0\Celcius to Farenheit.pdb
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Celcius to Farenheit\obj\Debug\net8.0\Celcius to Farenheit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Celcius to Farenheit\obj\Debug\net8.0\Celcius to Farenheit.AssemblyInfoInputs.cache
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Celcius to Farenheit\obj\Debug\net8.0\Celcius to Farenheit.AssemblyInfo.cs
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Celcius to Farenheit\obj\Debug\net8.0\Celcius to Farenheit.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Celcius to Farenheit\obj\Debug\net8.0\Celcius to Farenheit.dll
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Celcius to Farenheit\obj\Debug\net8.0\refint\Celcius to Farenheit.dll
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Celcius to Farenheit\obj\Debug\net8.0\Celcius to Farenheit.pdb
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Celcius to Farenheit\obj\Debug\net8.0\Celcius to Farenheit.genruntimeconfig.cache
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Celcius to Farenheit\obj\Debug\net8.0\ref\Celcius to Farenheit.dll

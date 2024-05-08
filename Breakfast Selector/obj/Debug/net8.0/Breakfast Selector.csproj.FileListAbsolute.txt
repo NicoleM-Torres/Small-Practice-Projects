@@ -1,0 +1,4 @@
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Breakfast Selector\obj\Debug\net8.0\Breakfast Selector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Breakfast Selector\obj\Debug\net8.0\Breakfast Selector.AssemblyInfoInputs.cache
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Breakfast Selector\obj\Debug\net8.0\Breakfast Selector.AssemblyInfo.cs
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Breakfast Selector\obj\Debug\net8.0\Breakfast Selector.csproj.CoreCompileInputs.cache

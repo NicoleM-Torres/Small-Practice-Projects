@@ -1,0 +1,14 @@
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\PictureArtProject\bin\Debug\net8.0\PictureArtProject.exe
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\PictureArtProject\bin\Debug\net8.0\PictureArtProject.deps.json
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\PictureArtProject\bin\Debug\net8.0\PictureArtProject.runtimeconfig.json
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\PictureArtProject\bin\Debug\net8.0\PictureArtProject.dll
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\PictureArtProject\bin\Debug\net8.0\PictureArtProject.pdb
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\PictureArtProject\obj\Debug\net8.0\PictureArtProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\PictureArtProject\obj\Debug\net8.0\PictureArtProject.AssemblyInfoInputs.cache
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\PictureArtProject\obj\Debug\net8.0\PictureArtProject.AssemblyInfo.cs
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\PictureArtProject\obj\Debug\net8.0\PictureArtProject.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\PictureArtProject\obj\Debug\net8.0\PictureArtProject.dll
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\PictureArtProject\obj\Debug\net8.0\refint\PictureArtProject.dll
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\PictureArtProject\obj\Debug\net8.0\PictureArtProject.pdb
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\PictureArtProject\obj\Debug\net8.0\PictureArtProject.genruntimeconfig.cache
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\PictureArtProject\obj\Debug\net8.0\ref\PictureArtProject.dll

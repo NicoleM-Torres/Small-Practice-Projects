@@ -1,0 +1,14 @@
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Coin Flipper Stat Calculator\bin\Debug\net8.0\Coin Flipper Stat Calculator.exe
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Coin Flipper Stat Calculator\bin\Debug\net8.0\Coin Flipper Stat Calculator.deps.json
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Coin Flipper Stat Calculator\bin\Debug\net8.0\Coin Flipper Stat Calculator.runtimeconfig.json
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Coin Flipper Stat Calculator\bin\Debug\net8.0\Coin Flipper Stat Calculator.dll
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Coin Flipper Stat Calculator\bin\Debug\net8.0\Coin Flipper Stat Calculator.pdb
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Coin Flipper Stat Calculator\obj\Debug\net8.0\Coin Flipper Stat Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Coin Flipper Stat Calculator\obj\Debug\net8.0\Coin Flipper Stat Calculator.AssemblyInfoInputs.cache
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Coin Flipper Stat Calculator\obj\Debug\net8.0\Coin Flipper Stat Calculator.AssemblyInfo.cs
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Coin Flipper Stat Calculator\obj\Debug\net8.0\Coin Flipper Stat Calculator.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Coin Flipper Stat Calculator\obj\Debug\net8.0\Coin Flipper Stat Calculator.dll
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Coin Flipper Stat Calculator\obj\Debug\net8.0\refint\Coin Flipper Stat Calculator.dll
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Coin Flipper Stat Calculator\obj\Debug\net8.0\Coin Flipper Stat Calculator.pdb
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Coin Flipper Stat Calculator\obj\Debug\net8.0\Coin Flipper Stat Calculator.genruntimeconfig.cache
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Coin Flipper Stat Calculator\obj\Debug\net8.0\ref\Coin Flipper Stat Calculator.dll

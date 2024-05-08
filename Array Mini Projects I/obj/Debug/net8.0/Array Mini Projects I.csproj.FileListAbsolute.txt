@@ -1,0 +1,14 @@
+C:\Users\nicol\Documents\GitHub\New-c--Project\Array Mini Projects I\bin\Debug\net8.0\Array Mini Projects I.exe
+C:\Users\nicol\Documents\GitHub\New-c--Project\Array Mini Projects I\bin\Debug\net8.0\Array Mini Projects I.deps.json
+C:\Users\nicol\Documents\GitHub\New-c--Project\Array Mini Projects I\bin\Debug\net8.0\Array Mini Projects I.runtimeconfig.json
+C:\Users\nicol\Documents\GitHub\New-c--Project\Array Mini Projects I\bin\Debug\net8.0\Array Mini Projects I.dll
+C:\Users\nicol\Documents\GitHub\New-c--Project\Array Mini Projects I\bin\Debug\net8.0\Array Mini Projects I.pdb
+C:\Users\nicol\Documents\GitHub\New-c--Project\Array Mini Projects I\obj\Debug\net8.0\Array Mini Projects I.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\Documents\GitHub\New-c--Project\Array Mini Projects I\obj\Debug\net8.0\Array Mini Projects I.AssemblyInfoInputs.cache
+C:\Users\nicol\Documents\GitHub\New-c--Project\Array Mini Projects I\obj\Debug\net8.0\Array Mini Projects I.AssemblyInfo.cs
+C:\Users\nicol\Documents\GitHub\New-c--Project\Array Mini Projects I\obj\Debug\net8.0\Array Mini Projects I.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Documents\GitHub\New-c--Project\Array Mini Projects I\obj\Debug\net8.0\Array Mini Projects I.dll
+C:\Users\nicol\Documents\GitHub\New-c--Project\Array Mini Projects I\obj\Debug\net8.0\refint\Array Mini Projects I.dll
+C:\Users\nicol\Documents\GitHub\New-c--Project\Array Mini Projects I\obj\Debug\net8.0\Array Mini Projects I.pdb
+C:\Users\nicol\Documents\GitHub\New-c--Project\Array Mini Projects I\obj\Debug\net8.0\Array Mini Projects I.genruntimeconfig.cache
+C:\Users\nicol\Documents\GitHub\New-c--Project\Array Mini Projects I\obj\Debug\net8.0\ref\Array Mini Projects I.dll

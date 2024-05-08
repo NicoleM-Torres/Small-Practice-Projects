@@ -1,0 +1,14 @@
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Tip, Tax & Total\bin\Debug\net8.0\Tip, Tax & Total.exe
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Tip, Tax & Total\bin\Debug\net8.0\Tip, Tax & Total.deps.json
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Tip, Tax & Total\bin\Debug\net8.0\Tip, Tax & Total.runtimeconfig.json
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Tip, Tax & Total\bin\Debug\net8.0\Tip, Tax & Total.dll
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Tip, Tax & Total\bin\Debug\net8.0\Tip, Tax & Total.pdb
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Tip, Tax & Total\obj\Debug\net8.0\Tip, Tax & Total.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Tip, Tax & Total\obj\Debug\net8.0\Tip, Tax & Total.AssemblyInfoInputs.cache
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Tip, Tax & Total\obj\Debug\net8.0\Tip, Tax & Total.AssemblyInfo.cs
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Tip, Tax & Total\obj\Debug\net8.0\Tip, Tax & Total.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Tip, Tax & Total\obj\Debug\net8.0\Tip, Tax & Total.dll
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Tip, Tax & Total\obj\Debug\net8.0\refint\Tip, Tax & Total.dll
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Tip, Tax & Total\obj\Debug\net8.0\Tip, Tax & Total.pdb
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Tip, Tax & Total\obj\Debug\net8.0\Tip, Tax & Total.genruntimeconfig.cache
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Tip, Tax & Total\obj\Debug\net8.0\ref\Tip, Tax & Total.dll

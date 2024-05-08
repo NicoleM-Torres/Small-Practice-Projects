@@ -1,0 +1,14 @@
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Ternery & Switch Statement Practice\bin\Debug\net8.0\Ternery & Switch Statement Practice.exe
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Ternery & Switch Statement Practice\bin\Debug\net8.0\Ternery & Switch Statement Practice.deps.json
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Ternery & Switch Statement Practice\bin\Debug\net8.0\Ternery & Switch Statement Practice.runtimeconfig.json
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Ternery & Switch Statement Practice\bin\Debug\net8.0\Ternery & Switch Statement Practice.dll
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Ternery & Switch Statement Practice\bin\Debug\net8.0\Ternery & Switch Statement Practice.pdb
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Ternery & Switch Statement Practice\obj\Debug\net8.0\Ternery & Switch Statement Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Ternery & Switch Statement Practice\obj\Debug\net8.0\Ternery & Switch Statement Practice.AssemblyInfoInputs.cache
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Ternery & Switch Statement Practice\obj\Debug\net8.0\Ternery & Switch Statement Practice.AssemblyInfo.cs
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Ternery & Switch Statement Practice\obj\Debug\net8.0\Ternery & Switch Statement Practice.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Ternery & Switch Statement Practice\obj\Debug\net8.0\Ternery & Switch Statement Practice.dll
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Ternery & Switch Statement Practice\obj\Debug\net8.0\refint\Ternery & Switch Statement Practice.dll
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Ternery & Switch Statement Practice\obj\Debug\net8.0\Ternery & Switch Statement Practice.pdb
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Ternery & Switch Statement Practice\obj\Debug\net8.0\Ternery & Switch Statement Practice.genruntimeconfig.cache
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Ternery & Switch Statement Practice\obj\Debug\net8.0\ref\Ternery & Switch Statement Practice.dll

@@ -1,0 +1,14 @@
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Torture\bin\Debug\net8.0\Torture.exe
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Torture\bin\Debug\net8.0\Torture.deps.json
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Torture\bin\Debug\net8.0\Torture.runtimeconfig.json
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Torture\bin\Debug\net8.0\Torture.dll
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Torture\bin\Debug\net8.0\Torture.pdb
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Torture\obj\Debug\net8.0\Torture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Torture\obj\Debug\net8.0\Torture.AssemblyInfoInputs.cache
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Torture\obj\Debug\net8.0\Torture.AssemblyInfo.cs
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Torture\obj\Debug\net8.0\Torture.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Torture\obj\Debug\net8.0\Torture.dll
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Torture\obj\Debug\net8.0\refint\Torture.dll
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Torture\obj\Debug\net8.0\Torture.pdb
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Torture\obj\Debug\net8.0\Torture.genruntimeconfig.cache
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Torture\obj\Debug\net8.0\ref\Torture.dll

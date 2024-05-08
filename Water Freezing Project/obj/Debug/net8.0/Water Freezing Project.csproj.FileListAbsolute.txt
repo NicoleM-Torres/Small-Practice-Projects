@@ -1,0 +1,14 @@
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Water Freezing Project\bin\Debug\net8.0\Water Freezing Project.exe
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Water Freezing Project\bin\Debug\net8.0\Water Freezing Project.deps.json
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Water Freezing Project\bin\Debug\net8.0\Water Freezing Project.runtimeconfig.json
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Water Freezing Project\bin\Debug\net8.0\Water Freezing Project.dll
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Water Freezing Project\bin\Debug\net8.0\Water Freezing Project.pdb
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Water Freezing Project\obj\Debug\net8.0\Water Freezing Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Water Freezing Project\obj\Debug\net8.0\Water Freezing Project.AssemblyInfoInputs.cache
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Water Freezing Project\obj\Debug\net8.0\Water Freezing Project.AssemblyInfo.cs
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Water Freezing Project\obj\Debug\net8.0\Water Freezing Project.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Water Freezing Project\obj\Debug\net8.0\Water Freezing Project.dll
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Water Freezing Project\obj\Debug\net8.0\refint\Water Freezing Project.dll
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Water Freezing Project\obj\Debug\net8.0\Water Freezing Project.pdb
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Water Freezing Project\obj\Debug\net8.0\Water Freezing Project.genruntimeconfig.cache
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Water Freezing Project\obj\Debug\net8.0\ref\Water Freezing Project.dll

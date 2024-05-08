@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Distanced Traveled/1.0.0": {
+        "runtime": {
+          "Distanced Traveled.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Distanced Traveled/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

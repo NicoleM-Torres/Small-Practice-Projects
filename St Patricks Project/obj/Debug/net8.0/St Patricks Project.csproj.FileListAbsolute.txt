@@ -1,0 +1,4 @@
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\St Patricks Project\obj\Debug\net8.0\St Patricks Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\St Patricks Project\obj\Debug\net8.0\St Patricks Project.AssemblyInfoInputs.cache
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\St Patricks Project\obj\Debug\net8.0\St Patricks Project.AssemblyInfo.cs
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\St Patricks Project\obj\Debug\net8.0\St Patricks Project.csproj.CoreCompileInputs.cache

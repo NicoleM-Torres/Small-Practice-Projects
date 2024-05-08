@@ -1,0 +1,14 @@
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\StoryProject\obj\Debug\net8.0\StoryProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\StoryProject\obj\Debug\net8.0\StoryProject.AssemblyInfoInputs.cache
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\StoryProject\obj\Debug\net8.0\StoryProject.AssemblyInfo.cs
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\StoryProject\obj\Debug\net8.0\StoryProject.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\StoryProject\bin\Debug\net8.0\StoryProject.exe
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\StoryProject\bin\Debug\net8.0\StoryProject.deps.json
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\StoryProject\bin\Debug\net8.0\StoryProject.runtimeconfig.json
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\StoryProject\bin\Debug\net8.0\StoryProject.dll
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\StoryProject\bin\Debug\net8.0\StoryProject.pdb
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\StoryProject\obj\Debug\net8.0\StoryProject.dll
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\StoryProject\obj\Debug\net8.0\refint\StoryProject.dll
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\StoryProject\obj\Debug\net8.0\StoryProject.pdb
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\StoryProject\obj\Debug\net8.0\StoryProject.genruntimeconfig.cache
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\StoryProject\obj\Debug\net8.0\ref\StoryProject.dll

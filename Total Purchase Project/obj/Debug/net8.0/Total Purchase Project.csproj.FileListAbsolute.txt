@@ -1,0 +1,14 @@
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Total Purchase Project\bin\Debug\net8.0\Total Purchase Project.exe
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Total Purchase Project\bin\Debug\net8.0\Total Purchase Project.deps.json
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Total Purchase Project\bin\Debug\net8.0\Total Purchase Project.runtimeconfig.json
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Total Purchase Project\bin\Debug\net8.0\Total Purchase Project.dll
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Total Purchase Project\bin\Debug\net8.0\Total Purchase Project.pdb
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Total Purchase Project\obj\Debug\net8.0\Total Purchase Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Total Purchase Project\obj\Debug\net8.0\Total Purchase Project.AssemblyInfoInputs.cache
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Total Purchase Project\obj\Debug\net8.0\Total Purchase Project.AssemblyInfo.cs
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Total Purchase Project\obj\Debug\net8.0\Total Purchase Project.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Total Purchase Project\obj\Debug\net8.0\Total Purchase Project.dll
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Total Purchase Project\obj\Debug\net8.0\refint\Total Purchase Project.dll
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Total Purchase Project\obj\Debug\net8.0\Total Purchase Project.pdb
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Total Purchase Project\obj\Debug\net8.0\Total Purchase Project.genruntimeconfig.cache
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Total Purchase Project\obj\Debug\net8.0\ref\Total Purchase Project.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Function-Prompt Project mar3/1.0.0": {
+        "runtime": {
+          "Function-Prompt Project mar3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Function-Prompt Project mar3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

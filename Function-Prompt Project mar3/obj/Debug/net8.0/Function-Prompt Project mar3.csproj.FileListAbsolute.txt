@@ -1,0 +1,14 @@
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Function-Prompt Project mar3\bin\Debug\net8.0\Function-Prompt Project mar3.exe
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Function-Prompt Project mar3\bin\Debug\net8.0\Function-Prompt Project mar3.deps.json
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Function-Prompt Project mar3\bin\Debug\net8.0\Function-Prompt Project mar3.runtimeconfig.json
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Function-Prompt Project mar3\bin\Debug\net8.0\Function-Prompt Project mar3.dll
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Function-Prompt Project mar3\bin\Debug\net8.0\Function-Prompt Project mar3.pdb
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Function-Prompt Project mar3\obj\Debug\net8.0\Function-Prompt Project mar3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Function-Prompt Project mar3\obj\Debug\net8.0\Function-Prompt Project mar3.AssemblyInfoInputs.cache
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Function-Prompt Project mar3\obj\Debug\net8.0\Function-Prompt Project mar3.AssemblyInfo.cs
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Function-Prompt Project mar3\obj\Debug\net8.0\Function-Prompt Project mar3.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Function-Prompt Project mar3\obj\Debug\net8.0\Function-Prompt Project mar3.dll
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Function-Prompt Project mar3\obj\Debug\net8.0\refint\Function-Prompt Project mar3.dll
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Function-Prompt Project mar3\obj\Debug\net8.0\Function-Prompt Project mar3.pdb
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Function-Prompt Project mar3\obj\Debug\net8.0\Function-Prompt Project mar3.genruntimeconfig.cache
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Function-Prompt Project mar3\obj\Debug\net8.0\ref\Function-Prompt Project mar3.dll

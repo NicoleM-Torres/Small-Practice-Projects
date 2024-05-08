@@ -1,0 +1,14 @@
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Input Validation 2\bin\Debug\net8.0\Input Validation 2.exe
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Input Validation 2\bin\Debug\net8.0\Input Validation 2.deps.json
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Input Validation 2\bin\Debug\net8.0\Input Validation 2.runtimeconfig.json
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Input Validation 2\bin\Debug\net8.0\Input Validation 2.dll
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Input Validation 2\bin\Debug\net8.0\Input Validation 2.pdb
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Input Validation 2\obj\Debug\net8.0\Input Validation 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Input Validation 2\obj\Debug\net8.0\Input Validation 2.AssemblyInfoInputs.cache
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Input Validation 2\obj\Debug\net8.0\Input Validation 2.AssemblyInfo.cs
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Input Validation 2\obj\Debug\net8.0\Input Validation 2.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Input Validation 2\obj\Debug\net8.0\Input Validation 2.dll
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Input Validation 2\obj\Debug\net8.0\refint\Input Validation 2.dll
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Input Validation 2\obj\Debug\net8.0\Input Validation 2.pdb
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Input Validation 2\obj\Debug\net8.0\Input Validation 2.genruntimeconfig.cache
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Input Validation 2\obj\Debug\net8.0\ref\Input Validation 2.dll

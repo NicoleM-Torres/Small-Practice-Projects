@@ -1,0 +1,14 @@
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Cellphone Coverage Fees\obj\Debug\net8.0\Cellphone Coverage Fees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Cellphone Coverage Fees\obj\Debug\net8.0\Cellphone Coverage Fees.AssemblyInfoInputs.cache
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Cellphone Coverage Fees\obj\Debug\net8.0\Cellphone Coverage Fees.AssemblyInfo.cs
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Cellphone Coverage Fees\obj\Debug\net8.0\Cellphone Coverage Fees.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Cellphone Coverage Fees\bin\Debug\net8.0\Cellphone Coverage Fees.exe
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Cellphone Coverage Fees\bin\Debug\net8.0\Cellphone Coverage Fees.deps.json
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Cellphone Coverage Fees\bin\Debug\net8.0\Cellphone Coverage Fees.runtimeconfig.json
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Cellphone Coverage Fees\bin\Debug\net8.0\Cellphone Coverage Fees.dll
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Cellphone Coverage Fees\bin\Debug\net8.0\Cellphone Coverage Fees.pdb
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Cellphone Coverage Fees\obj\Debug\net8.0\Cellphone Coverage Fees.dll
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Cellphone Coverage Fees\obj\Debug\net8.0\refint\Cellphone Coverage Fees.dll
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Cellphone Coverage Fees\obj\Debug\net8.0\Cellphone Coverage Fees.pdb
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Cellphone Coverage Fees\obj\Debug\net8.0\Cellphone Coverage Fees.genruntimeconfig.cache
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Cellphone Coverage Fees\obj\Debug\net8.0\ref\Cellphone Coverage Fees.dll

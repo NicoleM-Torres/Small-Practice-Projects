@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coin Flipper Stat Calculator", "Coin Flipper Stat Calculator.csproj", "{B38D573A-D3E5-4627-814D-8CE627E8E182}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B38D573A-D3E5-4627-814D-8CE627E8E182}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B38D573A-D3E5-4627-814D-8CE627E8E182}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B38D573A-D3E5-4627-814D-8CE627E8E182}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B38D573A-D3E5-4627-814D-8CE627E8E182}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {683DDDD5-1405-4AD8-93A9-0C6AFFDB389B}
+	EndGlobalSection
+EndGlobal

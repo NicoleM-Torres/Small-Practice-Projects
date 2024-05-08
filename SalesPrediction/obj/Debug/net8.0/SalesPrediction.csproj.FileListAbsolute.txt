@@ -1,0 +1,14 @@
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\SalesPrediction\bin\Debug\net8.0\SalesPrediction.exe
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\SalesPrediction\bin\Debug\net8.0\SalesPrediction.deps.json
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\SalesPrediction\bin\Debug\net8.0\SalesPrediction.runtimeconfig.json
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\SalesPrediction\bin\Debug\net8.0\SalesPrediction.dll
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\SalesPrediction\bin\Debug\net8.0\SalesPrediction.pdb
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\SalesPrediction\obj\Debug\net8.0\SalesPrediction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\SalesPrediction\obj\Debug\net8.0\SalesPrediction.AssemblyInfoInputs.cache
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\SalesPrediction\obj\Debug\net8.0\SalesPrediction.AssemblyInfo.cs
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\SalesPrediction\obj\Debug\net8.0\SalesPrediction.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\SalesPrediction\obj\Debug\net8.0\SalesPrediction.dll
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\SalesPrediction\obj\Debug\net8.0\refint\SalesPrediction.dll
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\SalesPrediction\obj\Debug\net8.0\SalesPrediction.pdb
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\SalesPrediction\obj\Debug\net8.0\SalesPrediction.genruntimeconfig.cache
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\SalesPrediction\obj\Debug\net8.0\ref\SalesPrediction.dll

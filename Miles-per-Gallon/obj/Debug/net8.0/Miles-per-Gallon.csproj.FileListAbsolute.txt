@@ -1,0 +1,14 @@
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Miles-per-Gallon\bin\Debug\net8.0\Miles-per-Gallon.exe
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Miles-per-Gallon\bin\Debug\net8.0\Miles-per-Gallon.deps.json
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Miles-per-Gallon\bin\Debug\net8.0\Miles-per-Gallon.runtimeconfig.json
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Miles-per-Gallon\bin\Debug\net8.0\Miles-per-Gallon.dll
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Miles-per-Gallon\bin\Debug\net8.0\Miles-per-Gallon.pdb
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Miles-per-Gallon\obj\Debug\net8.0\Miles-per-Gallon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Miles-per-Gallon\obj\Debug\net8.0\Miles-per-Gallon.AssemblyInfoInputs.cache
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Miles-per-Gallon\obj\Debug\net8.0\Miles-per-Gallon.AssemblyInfo.cs
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Miles-per-Gallon\obj\Debug\net8.0\Miles-per-Gallon.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Miles-per-Gallon\obj\Debug\net8.0\Miles-per-Gallon.dll
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Miles-per-Gallon\obj\Debug\net8.0\refint\Miles-per-Gallon.dll
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Miles-per-Gallon\obj\Debug\net8.0\Miles-per-Gallon.pdb
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Miles-per-Gallon\obj\Debug\net8.0\Miles-per-Gallon.genruntimeconfig.cache
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Miles-per-Gallon\obj\Debug\net8.0\ref\Miles-per-Gallon.dll

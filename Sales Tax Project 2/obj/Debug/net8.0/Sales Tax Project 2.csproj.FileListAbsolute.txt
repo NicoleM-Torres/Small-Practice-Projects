@@ -1,0 +1,14 @@
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Sales Tax Project 2\bin\Debug\net8.0\Sales Tax Project 2.exe
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Sales Tax Project 2\bin\Debug\net8.0\Sales Tax Project 2.deps.json
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Sales Tax Project 2\bin\Debug\net8.0\Sales Tax Project 2.runtimeconfig.json
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Sales Tax Project 2\bin\Debug\net8.0\Sales Tax Project 2.dll
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Sales Tax Project 2\bin\Debug\net8.0\Sales Tax Project 2.pdb
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Sales Tax Project 2\obj\Debug\net8.0\Sales Tax Project 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Sales Tax Project 2\obj\Debug\net8.0\Sales Tax Project 2.AssemblyInfoInputs.cache
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Sales Tax Project 2\obj\Debug\net8.0\Sales Tax Project 2.AssemblyInfo.cs
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Sales Tax Project 2\obj\Debug\net8.0\Sales Tax Project 2.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Sales Tax Project 2\obj\Debug\net8.0\Sales Tax Project 2.dll
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Sales Tax Project 2\obj\Debug\net8.0\refint\Sales Tax Project 2.dll
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Sales Tax Project 2\obj\Debug\net8.0\Sales Tax Project 2.pdb
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Sales Tax Project 2\obj\Debug\net8.0\Sales Tax Project 2.genruntimeconfig.cache
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Sales Tax Project 2\obj\Debug\net8.0\ref\Sales Tax Project 2.dll

@@ -1,0 +1,14 @@
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\A Cure For Sleep\bin\Debug\net8.0\A Cure For Sleep.exe
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\A Cure For Sleep\bin\Debug\net8.0\A Cure For Sleep.deps.json
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\A Cure For Sleep\bin\Debug\net8.0\A Cure For Sleep.runtimeconfig.json
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\A Cure For Sleep\bin\Debug\net8.0\A Cure For Sleep.dll
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\A Cure For Sleep\bin\Debug\net8.0\A Cure For Sleep.pdb
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\A Cure For Sleep\obj\Debug\net8.0\A Cure For Sleep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\A Cure For Sleep\obj\Debug\net8.0\A Cure For Sleep.AssemblyInfoInputs.cache
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\A Cure For Sleep\obj\Debug\net8.0\A Cure For Sleep.AssemblyInfo.cs
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\A Cure For Sleep\obj\Debug\net8.0\A Cure For Sleep.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\A Cure For Sleep\obj\Debug\net8.0\A Cure For Sleep.dll
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\A Cure For Sleep\obj\Debug\net8.0\refint\A Cure For Sleep.dll
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\A Cure For Sleep\obj\Debug\net8.0\A Cure For Sleep.pdb
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\A Cure For Sleep\obj\Debug\net8.0\A Cure For Sleep.genruntimeconfig.cache
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\A Cure For Sleep\obj\Debug\net8.0\ref\A Cure For Sleep.dll

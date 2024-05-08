@@ -1,0 +1,14 @@
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\While Loop and Functions Project\bin\Debug\net8.0\While Loop and Functions Project.exe
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\While Loop and Functions Project\bin\Debug\net8.0\While Loop and Functions Project.deps.json
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\While Loop and Functions Project\bin\Debug\net8.0\While Loop and Functions Project.runtimeconfig.json
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\While Loop and Functions Project\bin\Debug\net8.0\While Loop and Functions Project.dll
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\While Loop and Functions Project\bin\Debug\net8.0\While Loop and Functions Project.pdb
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\While Loop and Functions Project\obj\Debug\net8.0\While Loop and Functions Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\While Loop and Functions Project\obj\Debug\net8.0\While Loop and Functions Project.AssemblyInfoInputs.cache
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\While Loop and Functions Project\obj\Debug\net8.0\While Loop and Functions Project.AssemblyInfo.cs
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\While Loop and Functions Project\obj\Debug\net8.0\While Loop and Functions Project.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\While Loop and Functions Project\obj\Debug\net8.0\While Loop and Functions Project.dll
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\While Loop and Functions Project\obj\Debug\net8.0\refint\While Loop and Functions Project.dll
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\While Loop and Functions Project\obj\Debug\net8.0\While Loop and Functions Project.pdb
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\While Loop and Functions Project\obj\Debug\net8.0\While Loop and Functions Project.genruntimeconfig.cache
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\While Loop and Functions Project\obj\Debug\net8.0\ref\While Loop and Functions Project.dll

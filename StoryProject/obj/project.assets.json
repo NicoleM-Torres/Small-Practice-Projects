@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nicol\\OneDrive\\Escritorio\\MCA Projects\\StoryProject\\StoryProject.csproj",
+      "projectUniqueName": "C:\\Users\\nicol\\Documents\\GitHub\\Small-Practice-Projects\\StoryProject\\StoryProject.csproj",
       "projectName": "StoryProject",
-      "projectPath": "C:\\Users\\nicol\\OneDrive\\Escritorio\\MCA Projects\\StoryProject\\StoryProject.csproj",
+      "projectPath": "C:\\Users\\nicol\\Documents\\GitHub\\Small-Practice-Projects\\StoryProject\\StoryProject.csproj",
       "packagesPath": "C:\\Users\\nicol\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nicol\\OneDrive\\Escritorio\\MCA Projects\\StoryProject\\obj\\",
+      "outputPath": "C:\\Users\\nicol\\Documents\\GitHub\\Small-Practice-Projects\\StoryProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nicol\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -66,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

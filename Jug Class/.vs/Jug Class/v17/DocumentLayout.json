@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\nicol\\Documents\\GitHub\\Small-Practice-Projects\\Jug Class\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2568B880-E0F5-402A-8013-24DB8B18CBB5}|Jug Class.csproj|c:\\users\\nicol\\documents\\github\\small-practice-projects\\jug class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2568B880-E0F5-402A-8013-24DB8B18CBB5}|Jug Class.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2568B880-E0F5-402A-8013-24DB8B18CBB5}|Jug Class.csproj|c:\\users\\nicol\\documents\\github\\small-practice-projects\\jug class\\jugs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2568B880-E0F5-402A-8013-24DB8B18CBB5}|Jug Class.csproj|solutionrelative:jugs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2568B880-E0F5-402A-8013-24DB8B18CBB5}|Jug Class.csproj|c:\\users\\nicol\\documents\\github\\small-practice-projects\\jug class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2568B880-E0F5-402A-8013-24DB8B18CBB5}|Jug Class.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\nicol\\Documents\\GitHub\\Small-Practice-Projects\\Jug Class\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -41,13 +41,13 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Jugs.cs",
               "DocumentMoniker": "C:\\Users\\nicol\\Documents\\GitHub\\Small-Practice-Projects\\Jug Class\\Jugs.cs",
               "RelativeDocumentMoniker": "Jugs.cs",
               "ToolTip": "C:\\Users\\nicol\\Documents\\GitHub\\Small-Practice-Projects\\Jug Class\\Jugs.cs",
               "RelativeToolTip": "Jugs.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAA6wAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-10T18:45:38.515Z",
               "EditorCaption": ""

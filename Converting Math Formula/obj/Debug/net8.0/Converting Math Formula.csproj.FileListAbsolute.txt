@@ -1,0 +1,14 @@
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Converting Math Formula\bin\Debug\net8.0\Converting Math Formula.exe
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Converting Math Formula\bin\Debug\net8.0\Converting Math Formula.deps.json
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Converting Math Formula\bin\Debug\net8.0\Converting Math Formula.runtimeconfig.json
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Converting Math Formula\bin\Debug\net8.0\Converting Math Formula.dll
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Converting Math Formula\bin\Debug\net8.0\Converting Math Formula.pdb
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Converting Math Formula\obj\Debug\net8.0\Converting Math Formula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Converting Math Formula\obj\Debug\net8.0\Converting Math Formula.AssemblyInfoInputs.cache
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Converting Math Formula\obj\Debug\net8.0\Converting Math Formula.AssemblyInfo.cs
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Converting Math Formula\obj\Debug\net8.0\Converting Math Formula.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Converting Math Formula\obj\Debug\net8.0\Converting Math Formula.dll
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Converting Math Formula\obj\Debug\net8.0\refint\Converting Math Formula.dll
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Converting Math Formula\obj\Debug\net8.0\Converting Math Formula.pdb
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Converting Math Formula\obj\Debug\net8.0\Converting Math Formula.genruntimeconfig.cache
+C:\Users\nicol\OneDrive\Escritorio\MCA Projects\Converting Math Formula\obj\Debug\net8.0\ref\Converting Math Formula.dll
